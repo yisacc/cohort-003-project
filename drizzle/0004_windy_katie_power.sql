@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `course_reviews_user_course_unique` ON `course_reviews` (`user_id`,`course_id`);

@@ -22,6 +22,20 @@
       "when": 1770650640202,
       "tag": "0002_lying_shriek",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1780657448971,
+      "tag": "0003_greedy_gamora",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1780657645939,
+      "tag": "0004_windy_katie_power",
+      "breakpoints": true
     }
   ]
 }
